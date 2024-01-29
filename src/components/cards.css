@@ -1,0 +1,24 @@
+.brand{
+    color: #fff;
+}
+#main{
+    background: #C5A8E2;
+}
+div.content{
+
+    background: #C5A8E2;
+}
+.card1{
+
+}
+.btn:hover{
+    background-color: #ad68f3;
+}
+.btn:visited{
+    background-color: red;
+}
+.btn{
+    padding: 10px 20px ;
+    border: none;
+    background: #512f73;
+}

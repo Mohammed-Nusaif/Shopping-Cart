@@ -1,0 +1,14 @@
+.warning{
+    height: 40px;
+    width: 250px;
+    color:red;
+    position: absolute;
+    top: 10%;
+    right: 0;
+
+
+}
+#content{
+    width: 100%;
+    background: #C5A8E2;
+}
